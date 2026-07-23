@@ -37,13 +37,13 @@ function Skills() {
   return (
     <section id="skills" className="section skills">
       <div className="container">
-        <p className="section-eyebrow">03 // skills</p>
+        <p className="section-eyebrow"></p>
         <h2 className="section-title">What I work with</h2>
 
         <div className="skills-json">
           <div className="skills-json-header">
             <span className="skill-caret-static">{'{'}</span>
-            <span className="skills-json-title">skills.json</span>
+            <span className="skills-json-title"></span>
           </div>
           <div className="skills-json-body">
             {skills.map((group) => (

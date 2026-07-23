@@ -43,7 +43,7 @@ function Hero() {
     <section id="hero" className="hero section">
       <div className="container hero-grid">
         <div className="hero-copy">
-          <p className="section-eyebrow">// portfolio.init()</p>
+          <p className="section-eyebrow"></p>
           <h1 className="hero-heading">
             Hi, I'm <span className="hero-name">Zafar Imam</span>.
             <br />

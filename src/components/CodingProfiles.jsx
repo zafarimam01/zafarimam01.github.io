@@ -5,9 +5,9 @@ function CodingProfiles() {
   return (
     <section id="coding" className="section coding">
       <div className="container">
-        <p className="section-eyebrow">04 // competitive programming</p>
+        <p className="section-eyebrow"></p>
         <h2 className="section-title">Where I solve problems</h2>
-
+        
         <div className="coding-grid">
           {codingProfiles.map((p) => (
             <a

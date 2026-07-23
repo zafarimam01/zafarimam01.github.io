@@ -13,7 +13,7 @@ function Blog() {
   return (
     <section id="blog" className="section blog">
       <div className="container">
-        <p className="section-eyebrow">05 // blog</p>
+        <p className="section-eyebrow"></p>
         <h2 className="section-title">Notes &amp; write-ups</h2>
         <p className="blog-note">
           Placeholder posts — edit <code>src/data/blog.js</code> to add your own writing.
