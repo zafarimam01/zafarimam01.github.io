@@ -42,7 +42,7 @@ function Skills() {
 
         <div className="skills-json">
           <div className="skills-json-header">
-            <span className="skill-caret-static">{'{'}</span>
+            <span className="skill Sets">{'{'}</span>
             <span className="skills-json-title"></span>
           </div>
           <div className="skills-json-body">

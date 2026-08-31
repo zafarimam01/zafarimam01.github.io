@@ -2,7 +2,7 @@
   position: sticky;
   top: 0;
   z-index: 50;
-  background: rgba(20, 23, 43, 0.85);
+  background: rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
 }
@@ -57,7 +57,7 @@
 
 .navbar-tab:hover {
   color: var(--text);
-  background: rgba(255, 255, 255, 0.04);
+  background:rgba(20, 23, 43, 0.045);
 }
 
 .navbar-tab.is-active {
